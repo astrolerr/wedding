@@ -86,7 +86,7 @@ export default function Cover() {
           }}
           className="weddingDay"
         >
-          Sabtu, 31 Desember 2022
+          Jum'at, 27 Oktober 2023
         </m.div>
         Yth.
         <br />
