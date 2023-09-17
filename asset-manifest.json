@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://astrolerr.github.io/wedding/static/css/main.2cc29fd2.css",
-    "main.js": "https://astrolerr.github.io/wedding/static/js/main.b534ac03.js",
-    "index.html": "https://astrolerr.github.io/wedding/index.html",
-    "main.2cc29fd2.css.map": "https://astrolerr.github.io/wedding/static/css/main.2cc29fd2.css.map",
-    "main.b534ac03.js.map": "https://astrolerr.github.io/wedding/static/js/main.b534ac03.js.map"
+    "main.css": "https://rizky-nisa.github.io/wedding/static/css/main.cb7dcb01.css",
+    "main.js": "https://rizky-nisa.github.io/wedding/static/js/main.314b5aef.js",
+    "index.html": "https://rizky-nisa.github.io/wedding/index.html",
+    "main.cb7dcb01.css.map": "https://rizky-nisa.github.io/wedding/static/css/main.cb7dcb01.css.map",
+    "main.314b5aef.js.map": "https://rizky-nisa.github.io/wedding/static/js/main.314b5aef.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cc29fd2.css",
-    "static/js/main.b534ac03.js"
+    "static/css/main.cb7dcb01.css",
+    "static/js/main.314b5aef.js"
   ]
 }
