@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://rizky-nisa.github.io/wedding/static/css/main.cb7dcb01.css",
-    "main.js": "https://rizky-nisa.github.io/wedding/static/js/main.534c8268.js",
+    "main.js": "https://rizky-nisa.github.io/wedding/static/js/main.bde41b11.js",
     "index.html": "https://rizky-nisa.github.io/wedding/index.html",
     "main.cb7dcb01.css.map": "https://rizky-nisa.github.io/wedding/static/css/main.cb7dcb01.css.map",
-    "main.534c8268.js.map": "https://rizky-nisa.github.io/wedding/static/js/main.534c8268.js.map"
+    "main.bde41b11.js.map": "https://rizky-nisa.github.io/wedding/static/js/main.bde41b11.js.map"
   },
   "entrypoints": [
     "static/css/main.cb7dcb01.css",
-    "static/js/main.534c8268.js"
+    "static/js/main.bde41b11.js"
   ]
 }
